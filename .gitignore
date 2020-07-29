@@ -3,3 +3,7 @@
 /ecourses_vc-with-git/*.log
 /ecourses_vc-with-git/target
 /ecourses_vc-with-git/bin
+
+# IntelliJ project files
+.idea
+*.iml
